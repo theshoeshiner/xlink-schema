@@ -1,0 +1,16 @@
+<jxb:bindings version="2.0"
+	xmlns:jxb="http://java.sun.com/xml/ns/jaxb">
+
+
+	<jxb:bindings xmlns:xs="http://www.w3.org/2001/XMLSchema"
+		schemaLocation="xlink.xsd" node="/xs:schema">
+		<jxb:bindings xmlns:xs="http://www.w3.org/2001/XMLSchema"
+			node="//xs:schema">
+			<jxb:schemaBindings>
+				<jxb:package name="org.w3.v1999.xlink" />
+			</jxb:schemaBindings>
+		</jxb:bindings>
+	</jxb:bindings>
+
+
+</jxb:bindings>
